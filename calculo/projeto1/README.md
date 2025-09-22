@@ -64,5 +64,3 @@ Se o usuário inserir uma função inválida ou ocorrer algum erro durante a exe
 ## Considerações finais
 
 Este projeto apresenta uma interface simples, prática e funcional para o cálculo de derivadas numéricas online em tempo real. A utilização do `eval` com restrições permite flexibilidade para o usuário inserir diversas funções matemáticas. A possibilidade de visualizar o gráfico ajuda muito na compreensão do conceito de derivada e do comportamento local da função.
-
-Se desejar, é possível expandir essa aplicação para incluir métodos adicionais de cálculo de derivada, melhorar a segurança na avaliação da função, adicionar personalizações no gráfico, entre outras funcionalidades para torná-la ainda mais completa e didática.
